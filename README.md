@@ -1,5 +1,5 @@
 # sample-rn-app
-This is a smaple react native app
+This is a sample react native app using [Expo](https://expo.io/)
 
 # Setting up this project
 Just do npm install at the root directory
